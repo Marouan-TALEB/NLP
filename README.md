@@ -1,8 +1,6 @@
 # Natural Language Processing (NLP) Essentials
 
 **Author:** Marouan Taleb  
-**Project Type:** Comprehensive Practical Guide & Implementation
-
 ## Project Overview
 
 This project serves as a comprehensive practical implementation of Natural Language Processing (NLP) fundamentals. It is designed as a structured learning resource and technical reference that walks through the entire NLP pipeline, making complex concepts accessible and actionable.
