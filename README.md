@@ -67,4 +67,4 @@ python -m spacy download en_core_web_sm
 
 ## License
 
-This project is created by Marouan Taleb for educational and portfolio purposes.
+This project is created by Marouan Taleb for educational purposes.
